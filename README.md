@@ -27,13 +27,6 @@ Users should be able to:
 ![](./images/result.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
